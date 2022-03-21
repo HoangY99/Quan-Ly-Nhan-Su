@@ -1,5 +1,5 @@
 # Quan-Ly-Nhan-Su
-Website viết bằng ngôn ngữ PHP, cơ sở dữ liệu MySQL.
+Website viết bằng ngôn ngữ PHP theo mô hình mvc, sử dụng cơ sở dữ liệu MySQL.
 
 Được phân quyền thành tư cách là admin và user, với mỗi tư cách sẽ có các chức năng khác nhau:
 ## User có thể:
