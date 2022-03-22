@@ -1,7 +1,7 @@
 # Quan-Ly-Nhan-Su
 Website viết bằng ngôn ngữ PHP theo mô hình mvc, sử dụng cơ sở dữ liệu MySQL.
 
-Được phân quyền thành tư cách là admin và user, với mỗi tư cách sẽ có các chức năng khác nhau:
+Được phân quyền thành 2 tư cách là admin và user, với mỗi tư cách sẽ có các chức năng khác nhau:
 ## User có thể:
 + xem danh sách nhân viên, tìm kiếm nhân viên.
 + Xem danh sách phòng ban (và danh sách nhân viên của từng phòng ban)
